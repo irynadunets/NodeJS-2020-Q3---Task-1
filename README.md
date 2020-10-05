@@ -29,7 +29,7 @@ https://github.com/rolling-scopes-school/nodejs-course-template/blob/master/TASK
   - node main -a encode -s 7 -i ../../../input.txt -o ./output.txt  
   - If the output file output.txt is on desktop
   - node main -a encode -s 7 -i ./input.txt -o ../../../output.txt   
-  -If the input file is missed - use stdin as an input source
+  - If the input file is missed - use stdin as an input source
   - $ node main -a encode -s 7  -o "./output.txt"
-  -If the output file is missed - use stdout as an output destination.
+  - If the output file is missed - use stdout as an output destination.
   - $ node main -a encode -s 7 -i "./input.txt"
